@@ -33,13 +33,11 @@
 
 ```json
 {
-"nombre": "Ejemplo",
-"edad": 25,
-"ubicacion": {
-"ciudad": "Ciudad de Ejemplo",
-"pais": "País de Ejemplo"
-},
-"intereses": ["Programación", "Viajes", "Deportes"]
+ "author": "García Marquez",
+"isbn": "39gfsay169swj1js",
+"release_date": "01/05/1967",
+"title": "Cien años de soledad",
+"user_id": 2
 }
 ```
 
