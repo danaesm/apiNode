@@ -1,1 +1,45 @@
-{"books":[{"id":1,"author":"Allan Poe","isbn":"16572jshgdc6617a","release_date":"15/02/1845","tittle":"Narraciones extraordinarias","user_id":1,"users_id":1},{"id":2,"author":"García Marquez","isbn":"39gfsay169swj1js","release_date":"01/05/1967","tittle":"Cien años de soledad","user_id":2,"users_id":2},{"id":3,"author":"Antoine de Saint-Exupéry","isbn":"1657h1a7s57hu67in1a","release_date":"06/04/1943","tittle":"El principito","user_id":1,"users_id":1}],"users":[{"id":1,"email":"dana@email.com","name":"Dana","password":"12345678"},{"id":2,"email":"clau@email.com","name":"Clau","password":"12345678"}]}
+{
+    "books": [
+        {
+            "id": 1,
+            "author": "Allan Poe",
+            "isbn": "16572jshgdc6617a",
+            "release_date": "15/02/1845",
+            "title": "Narraciones extraordinarias",
+            "user_id": 1,
+            
+        },
+        {
+            "id": 2,
+            "author": "García Marquez",
+            "isbn": "39gfsay169swj1js",
+            "release_date": "01/05/1967",
+            "title": "Cien años de soledad",
+            "user_id": 2,
+            
+        },
+        {
+            "id": 3,
+            "author": "Antoine de Saint-Exupéry",
+            "isbn": "1657h1a7s57hu67in1a",
+            "release_date": "06/04/1943",
+            "title": "El principito",
+            "user_id": 1,
+            
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "email": "dana@email.com",
+            "name": "Dana",
+            "password": "12345678"
+        },
+        {
+            "id": 2,
+            "email": "clau@email.com",
+            "name": "Clau",
+            "password": "12345678"
+        }
+    ]
+}
