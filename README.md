@@ -4,8 +4,10 @@
 
 * Clonar el repositorio.
 * Bajar los archivos.
+* Correr el comando npm install
 * Correr el comando npm run start
 * El proyecto estará corriendo en el puerto 3000, por lo que las URL de la API tendrán este puerto.
+* El archivo sql se encuentra en este mismo directorio.
 
 ## URLs
 
