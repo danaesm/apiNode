@@ -30,8 +30,8 @@
   * POST
   * Insertar un libro
   * recibe todos los campos del libro, excepto el id o un json con la sig. estructura:
-  
-    ```json
+
+```json
 {
 "nombre": "Ejemplo",
 "edad": 25,
